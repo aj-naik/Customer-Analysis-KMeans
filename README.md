@@ -54,10 +54,6 @@ Credit limit average is around $4500
 
 Most customers are ~11 years tenure
 
-
-# Project History
-Did this project under coursera's guided projects in september 2020 but I couldn't comprehend some of the parts. After getting a better understanding of concepts involved, I revisited and modified the project in december. Doing the project again brought me a better understanding about unsupervised learning, KMeans and PCA and analysing financial data. Got a lot of insights from the data as well as end result.
-
 # Project Steps
 - Performed EDA and had a look at plots.
 - After gaining relevant information, cleaning the data I found that the data is skewed so sclaed the dataset.
@@ -68,3 +64,5 @@ Did this project under coursera's guided projects in september 2020 but I couldn
 - Used Principal Component Analysis for dimensionality reduction. Set the number of dimension as 2 so that the clusters could be plotted using scatterplot. Tried 3 dimensions and a 3d plot as well but the output was messy and not easily comprehensible.
 - Plotted a scatterplot of the classified data with each cluster having an unique color for ease of understanding.
 
+# Project History
+Did this project under coursera's guided projects in september 2020 but I couldn't comprehend some of the parts. After getting a better understanding of concepts involved, I revisited and modified the project in december. Doing the project again brought me a better understanding about unsupervised learning, KMeans and PCA and analysing financial data. Got a lot of insights from the data as well as end result.
